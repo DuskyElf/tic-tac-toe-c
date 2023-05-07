@@ -1,4 +1,4 @@
 #!/bin/sh
 
-clang main.c models.c -O3 -o main
-./main
+clang main.c models.c -O3 -o tic-tac-toe-c
+./tic-tac-toe-c
